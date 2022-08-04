@@ -6,7 +6,7 @@
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		Pexels (Pexels.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
